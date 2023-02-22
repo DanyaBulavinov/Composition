@@ -8,8 +8,8 @@ import androidx.fragment.app.Fragment
 import com.example.composition.R
 import com.example.composition.data.GameRepositoryImpl
 import com.example.composition.databinding.FragmentGameBinding
-import com.example.composition.domain.entity.GameResult
-import com.example.composition.domain.entity.Level
+import com.example.composition.domain.entities.GameResult
+import com.example.composition.domain.entities.Level
 
 class GameFragment : Fragment() {
 

@@ -8,7 +8,7 @@ import androidx.activity.OnBackPressedCallback
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import com.example.composition.databinding.FragmentGameFinishedBinding
-import com.example.composition.domain.entity.GameResult
+import com.example.composition.domain.entities.GameResult
 
 class GameFinishedFragment : Fragment() {
 
